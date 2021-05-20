@@ -47,10 +47,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ArhDemetriy/react-app.git"
+    "url": "git+https://github.com/ArhDemetriy/react-template.git"
   },
   "bugs": {
-    "url": "https://github.com/ArhDemetriy/react-app/issues"
+    "url": "https://github.com/ArhDemetriy/react-template/issues"
   },
-  "homepage": "https://github.com/ArhDemetriy/react-app#readme"
+  "homepage": "https://github.com/ArhDemetriy/react-template#readme"
 }
